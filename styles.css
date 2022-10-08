@@ -31,14 +31,30 @@ h2{
     background-color: #1256de;
     border-radius: 30px;
     padding: 0px 40px 20px;
+    display: flex;
+    justify-content: left;
 }
+
+.infoText {
+    width: 300px;
+    margin: 40px;
+}
+
+
+
 p {
     font-size: 20px;
 }
-img {
+.top-pics img {
     width: 400px;
     height: 300px;
     border-radius: 30px;
+    object-fit: cover;
+}
+.bottom-pic img {
+    width: 200px;
+    border-radius: 30px;
+    margin: 40px;
     object-fit: cover;
 }
 .links {
