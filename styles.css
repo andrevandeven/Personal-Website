@@ -37,7 +37,7 @@ h2{
 
 .infoText {
     width: 300px;
-    margin: 40px;
+    margin: 20px 100px 20px 20px;
 }
 
 
@@ -54,7 +54,7 @@ p {
 .bottom-pic img {
     width: 200px;
     border-radius: 30px;
-    margin: 40px;
+    margin: 40px 40px 0px 40px;
     object-fit: cover;
 }
 .links {
